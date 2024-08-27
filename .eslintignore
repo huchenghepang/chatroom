@@ -1,0 +1,11 @@
+# 排除 `node_modules` 目录
+node_modules/
+
+# 排除 `dist` 目录
+dist/
+
+# 排除特定文件
+# src/somefile.ts
+
+# 排除特定目录中的所有文件
+src/utils/
